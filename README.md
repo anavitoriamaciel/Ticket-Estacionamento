@@ -9,13 +9,13 @@ Este repositório contém um simplessSistema de ticket de estacionamento desenvo
 - **Sair:** Encerra a aplicação.
 
 # 📲 Exemplo de execução
-![execução](![image](https://github.com/user-attachments/assets/80d0714d-d326-43bb-b81c-8ffc6ce7d544)
+![execução](https://github.com/user-attachments/assets/80d0714d-d326-43bb-b81c-8ffc6ce7d544)
 ) 
 
 # Como usar o código
 ```bash
 # Clone esse repositório:
-$ git clone https://github.com/anavitoriaaciel/Ticket-Estacionamento.git
+$ git clone https://github.com/anavitoriamaciel/Ticket-Estacionamento.git
 ```
 
 ## Sobre Mim
